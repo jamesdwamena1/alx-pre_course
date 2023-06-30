@@ -1,2 +1,1 @@
-second read me. Updated
-I love coding
+second read me. Trying out git pull
